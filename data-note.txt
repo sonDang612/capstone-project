@@ -1,0 +1,1 @@
+dạ thưa thầy data bọn em để 1 folder riêng trong code luôn gọi là seeder folder
